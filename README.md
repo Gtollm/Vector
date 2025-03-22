@@ -115,9 +115,6 @@ for (int value : vec) {
 
 *This is a partial list of supported methods. For more details, refer to the source code.*
 
-## Work in progress
-Add move semantic
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues, pull requests, or suggest improvements. To contribute:
