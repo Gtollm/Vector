@@ -1,7 +1,7 @@
 #include <iostream>
 #include <lib/vector/vector.hpp>
 
-int main(int argc, char **argv) {
+int main() {
   utils::Vector<int> vec{};
   vec.push_back(4);
   vec.push_back(5);
